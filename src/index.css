@@ -1,0 +1,123 @@
+.box{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+
+}
+.heading{
+  background-color: white;
+  height: 600px;
+  width: 450px;
+  margin: 10px;
+
+ 
+}
+.timeframe{
+  border-radius: 5px;
+}
+.tier{
+  margin-right: 8px;
+  background-color:whitesmoke;
+  border-radius: 25px;
+  padding-right: 15px;
+  padding-left: 15px;
+  /* font-size: large; */
+  border: none;
+  color: gray;
+}
+.tier:hover{
+  background-color: rgb(245, 201, 120);
+  color: black;
+}
+
+.money{
+  margin: 6px;
+  font-weight: bold;
+  border-radius: 8px;
+  border: none;
+  padding: 8px;
+}
+.calc{
+  font-weight: bold;
+  margin-top: 10px;
+}
+.form{
+  width: 400px;
+  text-align: right;
+  font-weight: bold;
+  color: black;
+  background-color:whitesmoke ;
+  padding: 10px;
+  border:1px solid gray;
+  border-radius: 10px;
+  font-weight: bold;
+}
+
+.apply{
+  border: none;
+  margin-right: 15px;
+  margin-top: 25px;
+  /* padding: 10px; */
+  height: 40px;
+  width: 180px;
+  background-color: black;
+  color: white;
+  padding: 6px;
+  border-radius: 10px;
+
+  
+}
+.cancel{
+  border-radius: 1px solid gray;
+  height: 40px;
+  width: 180px;
+  border-radius:10px ;
+  margin-left: 15px;
+  background-color: white;
+  color:black;
+}
+.show{
+  border: none;
+  display: flex;
+  text-align: center;
+  margin-top: 20px;
+  align-items: center;
+
+}
+
+.btn{
+  border: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.tier1{
+  margin-right: 13px;
+  background-color:whitesmoke;
+  border-radius: 25px;
+  /* padding: 5px; */
+  padding-left: 15px;
+  padding-right: 15px;
+  font-size: large;
+  border: none;
+  color: gray;
+}
+
+.tier1:hover{
+  background-color:rgb(237, 202, 137);
+  color: black;
+}
+.setter{
+  border: none;
+  margin-top: 10px;
+  margin-right: 5px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 2022px;
+  font-weight: bold;
+  font-size: 15px;
+
+}
